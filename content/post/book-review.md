@@ -1,5 +1,5 @@
 ---
-title: "Book Review"
+title: "《欢乐英雄》书评"
 date: 2022-09-14T18:27:40+08:00
 draft: false
 tags: ["随想"]
