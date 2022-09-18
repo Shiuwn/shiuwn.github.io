@@ -1,7 +1,7 @@
 ---
 title: "人类的伟大"
 date: 2022-09-18T20:31:44+08:00
-draft: true
+draft: false
 tags: ["随想"]
 categories: ["电影"]
 ---
