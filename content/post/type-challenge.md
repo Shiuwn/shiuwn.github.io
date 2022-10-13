@@ -1,8 +1,8 @@
 ---
 title: "Type Challenge"
 date: 2022-09-19T10:27:36+08:00
-draft: true
-categories: ["编程"],
+draft: false
+categories: ["编程"]
 tags: ["typescript"]
 ---
 ## 项目地址
